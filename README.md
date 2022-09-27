@@ -1,6 +1,7 @@
 # Todoapp
+Github: https://github.com/Abenitesl2/todoapp.git
 
-DEMO https://venerable-sunflower-77633e.netlify.app/
+DEMO https://tourmaline-lollipop-eaa683.netlify.app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
 
